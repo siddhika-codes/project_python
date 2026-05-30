@@ -1,3 +1,4 @@
+# First mini project - Student Grade Tracker
 students_list = [
    {"name" : "Apoorva" , "score" : 92},
     {"name" : "Vinita" , "score" : 98},
@@ -31,6 +32,7 @@ for students in students_list:
      toppers_score = students["score"]
 
 print("Topper:" , toppers_name, "with",  toppers_score )
+
 
 
 

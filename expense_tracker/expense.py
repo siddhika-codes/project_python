@@ -1,3 +1,4 @@
+# Third mini project - Expense Tracker
 expenses = []
 total = 0
 while True:
@@ -14,6 +15,7 @@ for el in expenses:
     total = total + el["amount"]
 
 print("Total: ₹", total)
+
 
 
 

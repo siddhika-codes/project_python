@@ -1,3 +1,4 @@
+# Second mini project - Bollywood Quiz Game
 bollywood_details = [
     {
     "question" : "Who is the King of Bollywood?",
@@ -36,6 +37,7 @@ for elements in bollywood_details:
         print("wrong try again")
 
 print("You scored", score_counter, "out of 5")
+
 
 
     
